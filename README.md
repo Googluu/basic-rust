@@ -1,0 +1,2 @@
+# basic-rust
+rust basic
